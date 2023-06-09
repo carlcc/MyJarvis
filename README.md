@@ -131,9 +131,7 @@ e.g.
 - Say `I want to dance, open the light`, jarvis will think you need `disco` light on, and turn on the light for you.
 - You can also use another language, such as Chinese `我想跳舞，帮我开灯`, jarvis will do the exactly same thing as above.
 
-Here is a video:
-
-[![video](doc/screenshot.png)](https://youtu.be/RWFpbOUOO4g)
+Here is a [video](https://youtu.be/RWFpbOUOO4g)
 
 
 
