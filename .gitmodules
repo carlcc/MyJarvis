@@ -1,0 +1,6 @@
+[submodule "thirdparty/OpenDAN-Personal-AI-OS"]
+	path = thirdparty/OpenDAN-Personal-AI-OS
+	url = https://github.com/fiatrete/OpenDAN-Personal-AI-OS.git
+[submodule "thirdparty/U3D"]
+	path = thirdparty/U3D
+	url = https://github.com/u3d-community/U3D.git

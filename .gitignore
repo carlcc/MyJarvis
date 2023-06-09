@@ -1,0 +1,17 @@
+.vs
+.vscode
+.idea
+venv
+venv_youtube
+
+__pycache__
+node_modules
+log.txt
+.env
+.env_docker
+credentials.json
+token.json
+chathistory
+
+build
+cmake-build-*
