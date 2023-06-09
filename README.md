@@ -133,7 +133,7 @@ e.g.
 
 Here is a video:
 
-[![video](doc/screenshot.png)](https://github.com/carlcc/MyJarvis/raw/main/doc/video.mp4)
+[![video](doc/screenshot.png)](https://youtu.be/RWFpbOUOO4g)
 
 
 
